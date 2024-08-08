@@ -1,0 +1,3 @@
+08-08-2024  --  05:45:29:PM: INFO: LoginPage: check_login_api_with_valid_cred: status code is 200
+08-08-2024  --  05:45:29:PM: INFO: LoginPage: check_login_api_with_valid_cred: correct status code
+08-08-2024  --  05:45:29:PM: ERROR: LoginPage: check_login_api_with_valid_cred: Token is present
